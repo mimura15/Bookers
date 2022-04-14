@@ -28,3 +28,13 @@ table {
 strong {
 	font-weight: bold;
 }
+
+.field, .actions {
+	display: block;
+	margin-bottom: 10px;
+}
+
+label {
+	display: block;
+	cursor: default;
+}
